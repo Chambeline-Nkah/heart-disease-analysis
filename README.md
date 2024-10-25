@@ -4,7 +4,7 @@
 This project analyzes a dataset of medical records to identify patients at high risk of developing heart disease. The analysis utilizes various clustering techniques such as; K-means, Hierarchical Clustering, DBSCAN clustering, and Gaussian Mixture Models (GMM), to group patients based on their medical history and identify potential risk factors associated with heart disease.
 
 ## Dataset
-The dataset used in this analysis is sourced from the UCI Machine Learning Repository. It contains **303 instances** with **13 attributes**.
+The dataset used in this analysis is sourced from the UCI Machine Learning [Repository](https://github.com/uci-ml-repo/ucimlrepo). It contains **303 instances** with **13 attributes**.
 
 ## Analysis Steps
 1. **Data Loading and Preprocessing**:
